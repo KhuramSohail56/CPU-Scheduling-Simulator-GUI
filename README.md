@@ -11,4 +11,5 @@ How to Run: Kyunke yeh windows.h use kar raha hai, toh likhein ke ise GCC (MinGW
 Compilation Command:
 
 Bash
-gcc scheduler_gui.c -o scheduler -lgdi32 -lcomctl32
+
+gcc scheduler_gui.c -o scheduler_gui.exe -lgdi32 -lcomctl32 -mwindows
