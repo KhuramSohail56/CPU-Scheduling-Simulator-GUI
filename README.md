@@ -1,3 +1,7 @@
+## 📺 Project Demo
+You can watch the full functional demo of the CPU Scheduling Simulator here:
+[Click here to watch the Video Demo](https://drive.google.com/file/d/1zaPUHBy1XqrlJCa3czYngnIaxU8vRSOx/view)
+
 Project Title: CPU Scheduling Simulator (Win32 GUI).
 
 Description: Ke yeh simulator FCFS, SJF, aur SRTF algorithms ko visually analyze karne ke liye banaya gaya hai.
